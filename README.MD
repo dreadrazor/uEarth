@@ -1,18 +1,5 @@
-uEarth: Artificial Life Simulation Software
-(c) Alin-Dragos Petculescu 2011
-University of Leicester
-Supervisor: Nir Pitterman
-
-
-
-You are free to use, distribute and modify this application as long as the original author is credited.
-To compile, you must have the the jMonkey SDK or import the libraries in the lib folder to your IDE.
-A detailed description of what the code does can be found in Appendix A of the dissertation.
-
-
-
 No installation is required.
-To run the application launch the uEarth.jar file.
+To run the application launch the build/uEarth.jar file.
 Alternation between the GUI and the 3D view is done using the TAB key.
 Movement in the 3D view is done using the mouse to look and the WASD keys.
 Clicking a creature will select it (red arrow above it).
@@ -45,9 +32,5 @@ Graphic card
 
 JVM:
 	Java 5 or 6 ;
-	The Java Virtual Machine is required to run jME games; 
+	The Java Virtual Machine is required to run jME games;
 	The JVM is often preinstalled, if not, your users get it for free from  http://www.java.com
-
-
-
-Please submit any bugs to: dreadrazor@yahoo.com
